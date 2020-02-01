@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# mga files ko na hindi ia-upload
+/.idead/
